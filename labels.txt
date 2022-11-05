@@ -1,0 +1,4 @@
+0 space
+1 neutral
+2 rewind
+3 forward
